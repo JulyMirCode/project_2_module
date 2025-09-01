@@ -10,3 +10,15 @@ git config --global user.email 'yuor email'
 
 #4 
 git config --global --list
+
+#5
+git init
+
+git status
+
+git add. gitignore
+git commit -m 'add.gitignore'
+
+git add./ 
+
+git commit -m 'add project'
