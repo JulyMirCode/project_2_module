@@ -23,3 +23,6 @@ git add./
 
 git commit -m 'add project'
 
+git remote add origin https://github.com/JulyMirCode/project_2_module.git
+git branch -M main
+git push -u origin main
