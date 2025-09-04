@@ -35,3 +35,7 @@ git log --online
 git branch
 git branch new7
 
+git merge new5
+
+git branch -d new5
+
