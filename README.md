@@ -39,3 +39,10 @@ git merge new5
 
 git branch -d new5
 
+git log --oneline --author='имя автора'
+git log --since='2025-06-19' q--until='2025-06-20'
+
+git log --oneline --graph
+
+№ поиск изменения по файлам
+git log -- README.md
